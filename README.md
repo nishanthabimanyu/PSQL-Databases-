@@ -1,6 +1,6 @@
 ## Student Database Management and Querying: An In-Depth Look at `student_info.sh` and `students.sql`
 
-This article delves into a GitHub repository containing two key files: `students.sql` and `student_info.sh`. Together, these files provide a robust system for managing and querying a PostgreSQL database dedicated to student information in a computer science department.
+This GitHub repository containing two key files: `students.sql` and `student_info.sh`. Together, these files provide a robust system for managing and querying a PostgreSQL database dedicated to student information in a computer science department.
 
 ### The Foundation: `students.sql` – Database Schema and Initial Data
 
